@@ -1,5 +1,10 @@
+import accessModifierAndConstructors.Student;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Student studentObj = new Student();
+        studentObj.id = 2;
+        studentObj.name = "OOPS";
+        studentObj.roll = 2;
     }
 }
