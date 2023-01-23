@@ -1,7 +1,7 @@
 package accessModifierAndConstructors;
 
 public class Student {
-    int id;
-    String name;
-    int roll;
+    public int id;
+    public String name;
+    public int roll;
 }
