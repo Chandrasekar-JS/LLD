@@ -1,4 +1,4 @@
-package DesignPattern.intoToDesignPatterns;
+package DesignPattern.strategyPattern;
 
 public class Quack implements QuackBehavior{
     public void quack(){

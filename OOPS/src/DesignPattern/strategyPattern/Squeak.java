@@ -1,4 +1,4 @@
-package DesignPattern.intoToDesignPatterns;
+package DesignPattern.strategyPattern;
 
 public class Squeak implements QuackBehavior{
     public void quack(){

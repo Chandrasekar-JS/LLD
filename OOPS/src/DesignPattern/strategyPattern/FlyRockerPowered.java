@@ -1,4 +1,4 @@
-package DesignPattern.intoToDesignPatterns;
+package DesignPattern.strategyPattern;
 
 public class FlyRockerPowered implements FlyBehavior{
     public void fly(){
